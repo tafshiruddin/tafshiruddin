@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/tafshir6" target="blank"><img src="https://img.shields.io/twitter/follow/tafshir6?logo=twitter&style=for-the-badge" alt="tafshir6" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://spectacular-treacle-0494d8.netlify.app/](https://spectacular-treacle-0494d8.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://tafshiruddin.netlify.app/)
 
 - 📫 How to reach me **tafshiruddinud2017@gmail.com**
 
